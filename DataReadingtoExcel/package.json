@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "excel": "^1.0.1",
+    "exceljs": "^4.2.1"
+  }
+}
